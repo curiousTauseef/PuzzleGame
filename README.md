@@ -1,2 +1,2 @@
 # PuzzleGame
-A puzzle game in Java using GUI components for CS 1410 group project
+A puzzle game in Java using GUI components for CS 1410 group project (I mainly coded the menu)

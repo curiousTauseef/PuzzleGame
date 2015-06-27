@@ -6,7 +6,5 @@ Jason Timmerman, Jordan Wu, and Kyle Huynh
 
 Created a game using the GUI components in Java in a team setting, the time spend on creating this was a week.
 
-I can email you the Executable Jar File if you want to play the game.
-
-My email: jordan.spencer.wu@gmail.com
+Play the game by downloading the TileGame1_0.jar 
 
